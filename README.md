@@ -1,9 +1,14 @@
 # Christmas_Light
 # Schematic 
-![image](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzI2MTksInB1ciI6ImJsb2JfaWQifX0=--60e70b38f5f08d9dd325817dc7169a92327a037c/image.png)
+<img width="705" height="619" alt="image" src="https://github.com/user-attachments/assets/e638debe-5174-4ff4-862e-1cb1dc142d15" />
+
 # PCB routing 
-![image](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzI2MTgsInB1ciI6ImJsb2JfaWQifX0=--791835ba135a2fca3d91b4a29fe609eab2d5c924/image.png)
+<img width="1012" height="538" alt="image" src="https://github.com/user-attachments/assets/1e802400-c788-4c07-9a8f-553c7c466060" />
+
 # 3D overview 
+<img width="1076" height="433" alt="image" src="https://github.com/user-attachments/assets/4c75fccd-c3cd-4b35-98fd-cdb395f4a4af" />
+# 3D case 
+<img width="707" height="542" alt="image" src="https://github.com/user-attachments/assets/b4f92058-507a-4546-9dab-35812a1763ee" />
 
 # BOM ( Bill of material )
 - 2 ICC timer NE555P
