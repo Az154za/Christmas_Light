@@ -7,7 +7,13 @@
 
 # 3D overview 
 <img width="1076" height="433" alt="image" src="https://github.com/user-attachments/assets/4c75fccd-c3cd-4b35-98fd-cdb395f4a4af" />
-# 3D case 
+
+
+
+# 3D case
+
+
+
 <img width="707" height="542" alt="image" src="https://github.com/user-attachments/assets/b4f92058-507a-4546-9dab-35812a1763ee" />
 
 # BOM ( Bill of material )
